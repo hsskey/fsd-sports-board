@@ -2,6 +2,8 @@
 
 해당 Project는 GitHub Issues API를 활용하여 구현한 게시판 애플리케이션입니다. Feature-Sliced Design 아키텍처를 기반으로 설계되었으며, 사용자에게 축구게시판과 골프게시판을 제공합니다.
 
+🔗 **데모**: [https://fsd-sports-board.vercel.app//](https://fsd-sports-board.vercel.app//)
+
 ## ✨ 주요 기능
 
 ### 📋 게시판
